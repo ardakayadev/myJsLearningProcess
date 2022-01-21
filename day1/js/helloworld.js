@@ -1,0 +1,1 @@
+console.log('bu yazı helloworld.js den geldi')
