@@ -80,6 +80,8 @@ console.log(3 ** 2) // Exponentiation 3 ** 2 == 3 * 3   9
 		_num_1
 		$num1
 		year2020
-		year_2020					
+		year_2020				
+*/		
+		
 
 	 
